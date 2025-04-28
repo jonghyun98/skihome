@@ -173,22 +173,6 @@ function App() {
                 <div style={{ backgroundColor: 'var(--primary-light)', height: '300px', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white', fontSize: '1.5rem' }}>최신형 스키 장비</div>
               </div>
             </div>
-            
-            <div className="equipment-item">
-              <div className="equipment-image">
-                <div style={{ backgroundColor: 'var(--primary-light)', height: '300px', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white', fontSize: '1.5rem' }}>영상 분석 시스템</div>
-              </div>
-              <div className="equipment-info">
-                <h3>영상 분석 시스템</h3>
-                <p>첨단 영상 분석 시스템을 통해 수강생의 자세와 기술을 실시간으로 분석하고 피드백을 제공합니다.</p>
-                <ul className="equipment-features">
-                  <li>고속 카메라로 세밀한 동작 포착</li>
-                  <li>실시간 자세 분석 및 교정 가이드</li>
-                  <li>영상 기록을 통한 진전 과정 추적</li>
-                  <li>전문 강사의 디테일한 피드백 제공</li>
-                </ul>
-              </div>
-            </div>
           </div>
         </div>
       </section>
@@ -290,7 +274,6 @@ function App() {
                 <li>전문 강사 1:1 지도</li>
                 <li>기본 장비 대여 포함</li>
                 <li>안전 교육 포함</li>
-                <li>수업 후 영상 분석 제공</li>
                 <li>1시간 자유 연습 가능</li>
               </ul>
               <button className="btn-primary">예약하기</button>
@@ -307,7 +290,6 @@ function App() {
                 <li>전문 강사 1:1 지도</li>
                 <li>기본 장비 대여 포함</li>
                 <li>안전 교육 포함</li>
-                <li>수업 후 영상 분석 제공</li>
                 <li>회차별 1시간 자유 연습 가능</li>
                 <li>개인별 맞춤 커리큘럼</li>
               </ul>
@@ -324,7 +306,6 @@ function App() {
                 <li>전문 강사 1:1 지도</li>
                 <li>프리미엄 장비 대여 포함</li>
                 <li>안전 교육 포함</li>
-                <li>수업 후 영상 분석 제공</li>
                 <li>회차별 2시간 자유 연습 가능</li>
                 <li>개인별 맞춤 커리큘럼</li>
                 <li>추가 레슨 10% 할인</li>
@@ -365,7 +346,7 @@ function App() {
               
               <div className="testimonial">
                 <div className="testimonial-content">
-                  <p>"중급 과정을 통해 턴 기술이 크게 향상되었습니다. 영상 분석 시스템으로 자세 교정을 받을 수 있어 매우 효과적이었어요."</p>
+                  <p>"중급 과정을 통해 턴 기술이 크게 향상되었습니다. 전문 강사의 디테일한 피드백으로 자세 교정을 받을 수 있어 매우 효과적이었어요."</p>
                 </div>
                 <div className="testimonial-author">
                   <div style={{ backgroundColor: 'var(--primary-light)', width: '60px', height: '60px', borderRadius: '50%', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white', fontSize: '1rem' }}>박</div>
