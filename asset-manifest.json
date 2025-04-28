@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/skihome/static/css/main.bde535e7.css",
-    "main.js": "/skihome/static/js/main.f2f6f538.js",
+    "main.js": "/skihome/static/js/main.bcad58ed.js",
     "static/js/453.34855460.chunk.js": "/skihome/static/js/453.34855460.chunk.js",
     "index.html": "/skihome/index.html",
     "main.bde535e7.css.map": "/skihome/static/css/main.bde535e7.css.map",
-    "main.f2f6f538.js.map": "/skihome/static/js/main.f2f6f538.js.map",
+    "main.bcad58ed.js.map": "/skihome/static/js/main.bcad58ed.js.map",
     "453.34855460.chunk.js.map": "/skihome/static/js/453.34855460.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bde535e7.css",
-    "static/js/main.f2f6f538.js"
+    "static/js/main.bcad58ed.js"
   ]
 }
